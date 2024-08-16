@@ -3,7 +3,7 @@ My latest minecraft modpack
 
 # Install instructions
 
-1. Download **Voxels Recrafted (Like Remastered but for Forge)-1.2.zip** File
+1. Download the latest **Voxels Recrafted (Like Remastered but for Forge).zip** File from "Releases" on the right hand side of the page.
 2. Open curseforge app
 3. On the left hand side click minecraft
 4. Click import
