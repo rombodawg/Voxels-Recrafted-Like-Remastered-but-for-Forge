@@ -1,7 +1,16 @@
 # Voxels-Recrafted-Like-Remastered-but-for-Forge--1.2
 My latest minecraft modpack
 
-Install instructions
+# Install instructions
+
+1. Download **Voxels Recrafted (Like Remastered but for Forge)-1.2.zip** File
+2. Open curseforge app
+3. On the left hand side click minecraft
+4. Click import
+5. Import the .zip file
+6. Now the modpack is imported
+7. Download optifine from the link bellow
+8. (Optional) Download Essential mod from the link bellow as well for multiplayer
 
 
 **IN ORDER FOR THIS MOD TO WORK PROPERLY YOU WILL NEED OPTIFINE, YOU CAN DOWNLOAD IT AT THE LINK BELLOW, YOU WILL NEED VERSION "OptiFine\_1.20.1\_HD\_U\_I6.jar" for forge 47.2.18**
