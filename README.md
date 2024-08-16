@@ -1,4 +1,4 @@
-# Voxels-Recrafted-Like-Remastered-but-for-Forge--1.2
+# Voxels-Recrafted-Like-Remastered-but-for-Forge
 My latest minecraft modpack
 
 # Install instructions
