@@ -37,6 +37,46 @@ I would recommend at nothing less powerful than these GPU's:
 
 Here is a list of all the mods included
 
+**__Version 1.5__ (Massive Update)**
+
+- Overhaul Dimensions 
+  - Added more to aether (Lost aether + Deep Aether mods)
+  - Added Twilight forest mod
+- Overhauled animations
+- Overhauled sounds and music
+- Overhauled visuals, Removed need for optifine, replaced with oculus and Rethinking voxels
+- Overhauled particle system
+
+- Added custom magic (Ars Nouveau mod)
+- Added longer render distance support (Farsight mod)
+- Added realistic fishing (Fish mobs now swim to fishing lure in water)
+- Many other minor additions
+
+**__Version 1.4.1__**
+
+- Updated SUES PTGI E12 shader config file
+- Updated Path traced lighting in the SUES PTGI E12 shader to look more realistic
+
+**__Version 1.4__**
+
+Added the following mods to improve gameplay experience:
+
+- Dungeons and Taverns
+- Xaero's Minimap
+- Sophisticated Backpacks
+- The Outer End
+
+Added the following mods to add server compatibility:
+
+- Open Parties and Claims
+
+**__Version 1.3__**
+
+New additions
+
+Fixed recourse pack issues
+Changed recourse pack from Conquest to Whimscape to fix compatibility with Fresh Animations
+
 **__Version 1.2__**
 
 Mod Name:
