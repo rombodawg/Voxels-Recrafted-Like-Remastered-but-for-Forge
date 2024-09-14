@@ -9,13 +9,7 @@ My latest minecraft modpack
 4. Click import
 5. Import the .zip file
 6. Now the modpack is imported
-7. Download optifine from the link bellow (put this file in the "mods" folder of your modpack")
-8. (Optional) Download Essential mod from the link bellow as well for multiplayer (put this file in the "mods" folder of your modpack") also
-
-
-**IN ORDER FOR THIS MOD TO WORK PROPERLY YOU WILL NEED OPTIFINE, YOU CAN DOWNLOAD IT AT THE LINK BELLOW, YOU WILL NEED VERSION "OptiFine\_1.20.1\_HD\_U\_I6.jar" for forge 47.2.18**
-
-[https://optifine.net/adloadx?f=OptiFine\_1.20.1\_HD\_U\_I6.jar&x=03ad](https://optifine.net/adloadx?f=OptiFine_1.20.1_HD_U_I6.jar&x=03ad)
+7. (Optional) Download Essential mod from the link bellow as well for multiplayer (put this file in the "mods" folder of your modpack") also
 
 **For multiplayer please use the Essential Mod, it cannot be added to the modpack because of licensing restrictions. Essential Mod linked bellow**
 
